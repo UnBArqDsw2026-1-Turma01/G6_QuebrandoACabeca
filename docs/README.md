@@ -24,10 +24,16 @@ O **Grupo G6** visa desenvolver o software **Quebrando A Cabeça**, cuja finalid
 
 O sistema é construído como requisito de avaliação da disciplina **Arquitetura & Desenho de Software (FGA0208)**, ofertada no semestre **2026.1** pela Faculdade de Ciências e Tecnologias (FCTE) da Universidade de Brasília (UnB), sob supervisão da Prof.ª Milene Serrano.
   
-Repositório Oficial do Projeto mantido na Organização FGA0208 no [GitHub](https://github.com/UnBArqDsw2026-1-Turma01/2026.1-T01_G6_QuebrandoACabeca_Entrega_01).
+Repositório Oficial do Projeto mantido na Organização UnBArqDsw2026-1-Turma01 no [GitHub](https://github.com/UnBArqDsw2026-1-Turma01/2026.1-T01_G6_QuebrandoACabeca_Entrega_01).
 
 ## Screenshots da Primeira Entrega
 Adicione 2 ou mais screenshots em termos de artefatos realizados na entrega.
 
 ## Informações Complementares 
-Quaisquer outras informações adicionais podem ser descritas nessa seção.
+<!--Quaisquer outras informações adicionais podem ser descritas nessa seção.-->
+
+## Reuniões
+
+* Reunião 1
+
+* Reunião 2
