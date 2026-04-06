@@ -30,10 +30,4 @@ Repositório Oficial do Projeto mantido na Organização UnBArqDsw2026-1-Turma01
 Adicione 2 ou mais screenshots em termos de artefatos realizados na entrega.
 
 ## Informações Complementares 
-<!--Quaisquer outras informações adicionais podem ser descritas nessa seção.-->
-
-## Reuniões
-
-* Reunião 1
-
-* Reunião 2
+Quaisquer outras informações adicionais podem ser descritas nessa seção.
