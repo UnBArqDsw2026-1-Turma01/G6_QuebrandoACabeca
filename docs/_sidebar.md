@@ -14,6 +14,7 @@
     - [1.2. Artefato Generalista](/Base/1.2.ArtefatoGeneralista.md)
       - [1.2.1. 5W2H](/Base/ArtefatosGeneralistas/5W2H.md)
       - [1.2.2. Diagrama de Ishikawa](/Base/ArtefatosGeneralistas/ishikawa.md)
+      - [1.2.3. Glossários](/Base/ArtefatosGeneralistas/Glossários.md)      
     - [1.3. Modelagem BPMN](/Base/1.3.ModelagemBPMN.md)
     - [1.4. Participações - Base](/Base/1.4.ParticipacoesBase.md)
     - [1.5. Iniciativas Extras - Base](/Base/1.5.IniciativasExtras.md)
